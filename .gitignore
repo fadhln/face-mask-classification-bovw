@@ -1,3 +1,5 @@
 # Ignoring dataset to be hosted
 # Dataset is downloaded from Kaggle
 dataset/
+
+.pylintrc
